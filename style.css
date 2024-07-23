@@ -36,7 +36,3 @@ body{
         flex-direction: column;
     }
 }
-.header{
-    padding-left: .75rem;
-    padding-right: .75rem;
-}
